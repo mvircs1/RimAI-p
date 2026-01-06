@@ -40,6 +40,35 @@ RimAI is a mod for RimWorld that replaces the traditional storyteller system wit
 6. Start a new game
 7. Select "AI Oracle" as storyteller
 
+## API Configuration
+
+### Provider Options
+
+| Provider | Free | Models | Cost |
+|----------|------|--------|------|
+| OpenRouter | ✅ Free tier | 100+ models | Low |
+| OpenAI | ❌ | GPT-3.5/4 | Medium |
+| Anthropic | ❌ | Claude | High |
+
+### Getting API Keys
+
+#### OpenRouter (Recommended)
+1. Visit [openrouter.ai/keys](https://openrouter.ai/keys)
+2. Create a free account
+3. Generate your API key
+4. **Bonus**: $5 free credits!
+
+#### OpenAI
+1. Visit [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+2. Login/create account
+3. Navigate to API Keys
+4. Create a new key
+
+#### Anthropic
+1. Visit [console.anthropic.com](https://console.anthropic.com/)
+2. Sign up
+3. Go to API Keys
+4. Generate your key
 
 ## Usage
 
