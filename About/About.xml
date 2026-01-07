@@ -15,9 +15,17 @@
             <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
         </li>
     </modDependencies>
-    <description>RimAI is a RimWorld mod that replaces the traditional storyteller with AI-powered narrative generation.
+    <description>RimAI is a revolutionary RimWorld mod that replaces the traditional storyteller with advanced AI-powered narrative generation, featuring professional logging, performance tracking, and intelligent event generation.
 
-The mod uses AI to create contextual events based on your colony's current state, generating dynamic stories and challenges.</description>
+🔥 NEW FEATURES:
+• Advanced Logging System - Structured logs with categories, levels, and automatic alerts
+• Performance Tracking - Automatic operation timing and bottleneck detection
+• Intelligent Cache - Smart caching with validation and corruption prevention
+• Robust Fallbacks - Multi-layer fallback system ensuring events always generate
+• Quality Metrics - AI learns from event appropriateness and adjusts behavior
+• Enhanced Stability - Comprehensive error handling and timeout management
+
+The mod uses AI to create contextual events based on your colony's current state, generating dynamic stories and challenges with professional-grade reliability.</description>
     <loadAfter>
         <li>Ludeon.RimWorld</li>
         <li>Ludeon.RimWorld.Royalty</li>

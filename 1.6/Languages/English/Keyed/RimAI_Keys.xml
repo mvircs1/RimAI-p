@@ -28,6 +28,7 @@
   <RimAI_Settings_CacheTime>Cache Duration: {0} hours</RimAI_Settings_CacheTime>
   <RimAI_Settings_DebugMode>Debug Mode (detailed logs)</RimAI_Settings_DebugMode>
   <RimAI_Settings_ShowNotifications>Show API Notifications</RimAI_Settings_ShowNotifications>
+  <RimAI_Settings_PersistCache>Persist Cache in Saves</RimAI_Settings_PersistCache>
   <RimAI_Settings_TestConnection>Test API Connection</RimAI_Settings_TestConnection>
   <RimAI_Settings_APIConfigured>[OK] API Key configured</RimAI_Settings_APIConfigured>
   <RimAI_Settings_APINotConfigured>[WARNING] API Key not configured</RimAI_Settings_APINotConfigured>

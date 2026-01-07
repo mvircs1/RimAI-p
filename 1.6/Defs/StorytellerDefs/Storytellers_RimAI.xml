@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-    <!-- Narrador Principal com AI -->
+    <!-- AI Oracle Storyteller Definition -->
     <StorytellerDef>
         <defName>RimAI_AIOracle</defName>
         <label>RimAI_AIOracle.label</label>

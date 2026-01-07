@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- RimAI_AIOracle -->
+  <!-- AI Oracle Storyteller -->
   <RimAI_AIOracle.label>AI Oracle</RimAI_AIOracle.label>
-  <RimAI_AIOracle.description>An artificial intelligence that observes your colony and creates personalized narrative events based on your actions, available resources, and game context.
-
-The AI Oracle constantly analyzes your colony's state and generates events that make narrative sense, maintaining the balance between challenge and fun.
-
-Requires: API Key configuration in mod settings.</RimAI_AIOracle.description>
+  <RimAI_AIOracle.description>An artificial intelligence that observes your colony and creates personalized narrative events based on your actions, available resources, and game context. The AI Oracle constantly analyzes your colony's state and generates events that make narrative sense, maintaining the balance between challenge and fun. Requires: API Key configuration in mod settings.</RimAI_AIOracle.description>
 
 </LanguageData>
